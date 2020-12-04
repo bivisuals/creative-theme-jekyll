@@ -322,6 +322,13 @@ header {
     font-size: 4em;
 }
 
+// privacy policy
+section {
+    p {
+        padding-top: 10px;
+        font-size: $base-font-size;
+    }
+}
 // Extras
 // -- Highlight Color Customization
 ::-moz-selection {
@@ -348,5 +355,21 @@ img::-moz-selection {
 
 body {
     -webkit-tap-highlight-color: $theme-dark;
+    font-family: $base-font-family;
+}
+
+
+footer {
+    background: $theme-primary;
+    padding: 32px 0 16px 0;
+    color: #fefefe;
+
+    a {
+        color: rgba(white, .7);
+    }
+
+    a:hover {
+        color: white;
+    }
 }
 

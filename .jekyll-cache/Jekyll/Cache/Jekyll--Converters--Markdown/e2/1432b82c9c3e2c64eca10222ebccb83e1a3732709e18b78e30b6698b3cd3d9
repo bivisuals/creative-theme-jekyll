@@ -1,0 +1,154 @@
+I"�,<p>&lt;!DOCTYPE html&gt;</p>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <title>BIVisuals | Power BI</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+
+    <!-- Custom Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css" />
+
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="css/animate.min.css" type="text/css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/main.css" type="text/css" />
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+
+<body id="page-top">
+  <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="http://localhost:4000">BIVisuals</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a class="page-scroll" href="#about">MultiCard</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#services">Key components</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#portfolio">Demo</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#contact">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+
+  <section>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <object data="../img/PowerBIDefaultCustomVisualEULA.pdf" width="100%" height="100%" type="application/pdf" />
+            </div>
+        </div>
+        <!-- <h2>End User Lincese Agreement</h2>
+        <span>Last updated: December 4, 2020</span>
+        <br > <br>
+
+        <h3>POWER BI CUSTOM VISUALS – STANDARD VISUALIZATION LICENSE TERMS</h3>
+        <p>
+            
+            <p>
+                These license terms are an agreement between you and the visualization developer. Please read them. They apply to the visualization for Power BI you download from the Office Store, including any updates or supplements for the visualization (the “Visualization”), unless the Visualization comes with separate terms, in which case those terms apply.
+            </p>
+
+            <p>
+                BY DOWNLOADING OR USING THE VISUALIZATION, OR ATTEMPTING TO DO ANY OF THESE, YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, YOU HAVE NO RIGHT TO AND MUST NOT DOWNLOAD OR USE THE VISUALIZATION.
+            </p>
+            
+            <p>The Visualization developer means the entity licensing the Visualization to you, as identified in the Office Store.</p>
+            <p>If you comply with these license terms, you have the rights below.</p>
+            <b>1. INSTALLATION AND USE RIGHTS.</b> You may install and use one copy of the Visualization for use with a product or service that supports the Power BI visual interface.
+            <p><b>2. INTERNET-BASED SERVICES.</b>
+                a. Consent for Internet-Based or Wireless Services. The Visualization connects to computer systems over the Internet, which may include via a wireless network. Using the Visualization operates as your consent to the transmission of standard device information (including but not limited to technical information about your device, system and Visualization software, and peripherals) for internet-based or wireless services.
+                <br />
+                b. Misuse of Internet-based Services. You may not use any Internet-based service in any way that could harm it or impair anyone else’s use of it or the wireless network. You may not use the service to try to gain unauthorized access to any service, data, account or network by any means.
+            </p>
+            
+            
+            3. SCOPE OF LICENSE. The Visualization is licensed, not sold. This agreement only gives you some rights to use the Visualization. Visualization developer reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the Visualization only as expressly permitted in this agreement. You may not • work around any technical limitations in the Visualization; • reverse engineer, decompile or disassemble the Visualization, except and only to the extent that applicable law expressly permits, despite this limitation; • make more copies of the Visualization than specified in this agreement or allowed by applicable law, despite this limitation; or • publish or otherwise make the Visualization available for others to copy. 4. DOCUMENTATION. If documentation is provided with the Visualization, you may copy and use the documentation for personal reference purposes. 5. TECHNOLOGY AND EXPORT RESTRICTIONS. The Visualization may be subject to United States or international technology control or export laws and regulations. You must comply with all domestic and international export laws and regulations that apply to the technology used or supported by the Visualization. These laws include restrictions on destinations, end users and end use. For information on Microsoft branded products, see www.microsoft.com/exporting.
+            6. SUPPORT SERVICES. Microsoft is not responsible for providing support services for the Visualization. If Microsoft is the Visualization developer, it may provide support services, but is not obligated to do so under this agreement. Contact the Visualization developer to determine what support services are available.
+            7. ENTIRE AGREEMENT. This agreement, any applicable Visualization developer privacy policy, and the terms for supplements and updates are the entire agreement between you and Visualization developer for the Visualization. If Microsoft is the Visualization developer, this agreement does not change the terms of your relationship with Microsoft with regard to Power BI, Microsoft Office, the Office Store, or any other Microsoft product or service (which is governed by the software license terms that accompanied, or terms of use that are associated with, the applicable product or service).
+            8. APPLICABLE LAW.
+            a. United States. If you acquired the Visualization in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles. The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+            b. Outside the United States. If you acquired the Visualization in any other country, the laws of that country apply.
+            9. LEGAL EFFECT. This agreement describes certain legal rights. You may have other rights under the laws of your state or country. This agreement does not change your rights under the laws of your state or country if the laws of your state or country do not permit it to do so.
+            10. DISCLAIMER OF WARRANTY. TO THE FULLEST EXTENT PERMITTED BY LAW, (A) THE VISUALIZATION IS LICENSED "AS-IS," "WITH ALL FAULTS," AND "AS AVAILABLE" AND YOU BEAR ALL RISK OF USING IT; (B) THE VISUALIZATION DEVELOPER, ON BEHALF OF ITSELF, MICROSOFT (IF MICROSOFT IS NOT THE VISUALIZATION DEVELOPER), AND EACH OF OUR RESPECTIVE AFFILIATES, VENDORS, AGENTS AND SUPPLIERS, GIVES NO EXPRESS WARRANTIES, GUARANTEES, OR CONDITIONS IN RELATION TO THE VISUALIZATION; (C) YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS THAT THIS AGREEMENT CANNOT CHANGE; AND (D) VISUALIZATION DEVELOPER AND MICROSOFT EXCLUDE ANY IMPLIED WARRANTIES OR CONDITIONS, INCLUDING THOSE OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+            11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES. TO THE EXTENT NOT PROHIBITED BY LAW, YOU CAN RECOVER FROM THE VISUALIZATION DEVELOPER ONLY DIRECT DAMAGES UP TO THE AMOUNT YOU PAID FOR THE VISUALIZATION OR $1.00, WHICHEVER IS GREATER. YOU WILL NOT, AND WAIVE ANY RIGHT TO, SEEK TO RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES FROM THE VISUALIZATION DEVELOPER.
+            This limitation applies to • anything related to the Visualization or services made available through the Visualization; and claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+            It also applies even if
+            • repair, replacement or a refund for the Visualization does not fully compensate you for any losses; or • Visualization developer knew or should have known about the possibility of the damages.
+        </p> -->
+    </div>
+</section>
+
+  <footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-12" style="text-align: center;">
+                <!-- <a href="#"><img src="../img/portfolio/logo_transparent.png"
+                        alt="bv-white-logo" style="height:32px;"></a> -->
+                <ul class="list-unstyled list-inline">
+                    <li class="list-inline-item">&copy; 2020 BIVisuals All Rights Reserved</li>
+                    <li class=""><a href="/privacy-policy">Privacy Policy</a></li>
+                    <li class=""><a href="./eula">Terms Of Services</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+  <!-- jQuery -->
+<script src="js/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="js/jquery.easing.min.js"></script>
+<script src="js/jquery.fittext.js"></script>
+<script src="js/wow.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="js/creative.js"></script>
+
+</body>
+
+</html>
+:ET
