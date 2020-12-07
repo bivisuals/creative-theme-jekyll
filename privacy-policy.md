@@ -1,11 +1,3 @@
 ---
-layout: page
-title: Privacy policy
-permaLink: "/privacy-policy/"
+layout: pp
 ---
-
-<!-- {% include head.html %} -->
-{% include nav.html %}
-{% include privacy-policy.html %}
-{% include footer.html %}
-{% include scripts.html %}
